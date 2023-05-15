@@ -57,7 +57,7 @@ position: flex}
   color: black; 
   background-color: beige; 
   background-size: cover;
-  height: 670px;
+  height: 600px;
   background-attachment: fixed;}
 
 .michael2 {text-align: center; 
@@ -92,7 +92,7 @@ width: 300px;
 text-align: right;
 margin: 90px;
 position: absolute;
-margin-top: -540px;
+margin-top: -140px;
 margin-left: 130px;
 margin-right: 0;
 margin-bottom: -300px}
