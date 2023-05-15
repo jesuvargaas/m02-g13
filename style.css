@@ -53,8 +53,8 @@ text-align: center;
 position: flex}
 
 .desarrollo {text-align: center; 
-  color: white; 
-  background-color: black; 
+  color: black; 
+  background-color: beige; 
   background-size: cover;
   height: 670px;
   background-attachment: fixed;}
@@ -121,9 +121,9 @@ margin-top: -280px}
 .textop8 {font-family:'Tajawal', sans-serif;}
 
 footer {
-  background-color: black;
+  background-color: beige;
   height: 200px;
-  color: white;
+  color: black;
   font-family:'Tajawal', sans-serif;
 }
 
