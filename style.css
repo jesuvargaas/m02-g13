@@ -68,7 +68,8 @@ position: flex}
 
 .galeria {text-align: center;
 margin: 50px;
-padding-top: -10px}
+padding-top: -100px;
+margin-top: -640px}
 
 .titulo {text-align: left;
 margin-left: 10px;
