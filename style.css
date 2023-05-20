@@ -116,9 +116,17 @@ margin-top: -280px}
   margin: 20px;
   margin-top: -60px;
 }
-.textop2 {font-family:'Tajawal', sans-serif;}
+
+.textop1 {margin-top: -50px}
+
+.textop2 {font-family:'Tajawal', sans-serif; 
+  margin-right: 400px;
+}
+
 .textop4 {font-family:'Tajawal', sans-serif;}
+
 .textop6 {font-family:'Tajawal', sans-serif;}
+
 .textop8 {font-family:'Tajawal', sans-serif;}
 
 footer {
