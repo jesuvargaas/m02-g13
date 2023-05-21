@@ -117,7 +117,8 @@ margin-top: -280px}
   margin-top: -60px;
 }
 
-.textop1 {margin-top: -50px;
+.textop1 {margin-top: -50px; 
+  margin-right: -90px;
 }
 
 .textop2 {font-family:'Tajawal', sans-serif; 
@@ -153,7 +154,7 @@ margin-top: 20px;
   margin-left: 150px; 
   display: inline-flex;
   margin-top: 170px;
-  margin-bottom: -100px; position: relative;
+  margin-bottom: -100px; 
   }
 
 .material-symbols-outlined {margin: 0px;
