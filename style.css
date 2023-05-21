@@ -6,7 +6,7 @@ body {margin: 0px; font-family:'Anton', sans-serif;
 width: 100vw} 
 
 header {
-  background-color: #C0B99D;
+  background-color: navy;
   color: white;
   height: 60px;
   padding: 10px;
@@ -20,7 +20,7 @@ header {
 margin: 10px; 
 padding-top: 10px}
 
-a {color: black;
+a {color:white;
 text-decoration: none;
 padding: 20px;}
 
@@ -54,8 +54,8 @@ text-align: center;
 position: flex}
 
 .desarrollo {text-align: center; 
-  color:black; 
-  background-color: #C0B99D; 
+  color:white; 
+  background-color: navy; 
   background-size: cover;
   height: 500px;
   background-attachment: fixed;}
@@ -136,19 +136,16 @@ margin-right: 150px;}
 
 .textop8 {font-family:'Tajawal', sans-serif;}
 
-<<<<<<< HEAD
 .paper {margin-top: 100px;
 padding: 10px}
-=======
 .textop9 {font-family:'Tajawal', sans-serif; 
   margin-right: 400px;
 }
->>>>>>> 0fc95fa4eb2756ed2d7b068b143efd7e77a93c58
 
 footer {
-  background-color: #C0B99D;
-  height: 270px;
-  color: black;
+  background-color: navy;
+  height: 200px;
+  color: white;
   font-family:'Tajawal', sans-serif;
 }
 
