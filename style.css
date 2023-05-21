@@ -83,19 +83,11 @@ margin-right: 1000px;
 font-family:'Tajawal', sans-serif;}
 
 .imagen1 {display: inline-block;
-<<<<<<< HEAD
   margin: -100px;
   height: 200px;
   width: 200px;
   text-align: right;
   margin-left: 200px;
-=======
-  margin: 5px;
-  height: 200px;
-  width: 300px;
-  text-align: right;
-  margin-left: 50px;
->>>>>>> 66dbc95e2076f7b8047b753c25e976439c26012c
   margin-top: 150px;}
 
 .contenedor-imagen1 {border-radius: 60%;
@@ -123,7 +115,7 @@ margin-top: -400px}
 
 .contenedor-imagen {border-radius: 50%;
   position: inline-flex;
-  width: 170px;
+  width: 200px;
   height: 200px;
   text-align: right;
   margin: 10px;
@@ -138,7 +130,6 @@ margin-top: -400px}
 
 .textop2 {font-family:'Tajawal', sans-serif; 
   margin-right: 100px;
-<<<<<<< HEAD
 }
 
 .textop3 {margin-left: -250px;
@@ -149,7 +140,7 @@ margin-top: -400px}
 }
 
 .textop4 {font-family:'Tajawal', sans-serif;
-margin-right:30px;
+margin-right:20px;
 
 }
 
@@ -161,15 +152,6 @@ margin-top: -50px;
 .textop6 {font-family:'Tajawal', sans-serif;
 margin-right: 100px;
 margin-top:-10px}
-=======
-}
-
-.textop4 {font-family:'Tajawal', sans-serif;
-margin-right:-100px;}
-
-.textop6 {font-family:'Tajawal', sans-serif;
-margin-right:}
->>>>>>> 66dbc95e2076f7b8047b753c25e976439c26012c
 
 .textop8 {font-family:'Tajawal', sans-serif;}
 
@@ -179,11 +161,8 @@ padding: 10px}
   margin-right: 400px;
 }
 
-<<<<<<< HEAD
 .foto-p2 { margin-right: 300px; }
 
-=======
->>>>>>> 66dbc95e2076f7b8047b753c25e976439c26012c
 .analisis {margin: 10px;
 margin-left: 30px}
 
