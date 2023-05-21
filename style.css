@@ -121,7 +121,9 @@ margin-top: -280px}
 
 }
 
-.textop1 {margin-top: -50px}
+.textop1 {margin-top: -50px; 
+  margin-right: -90px;
+}
 
 .textop2 {font-family:'Tajawal', sans-serif; 
   margin-right: 150px;
@@ -134,12 +136,18 @@ margin-right: 150px;}
 
 .textop8 {font-family:'Tajawal', sans-serif;}
 
+<<<<<<< HEAD
 .paper {margin-top: 100px;
 padding: 10px}
+=======
+.textop9 {font-family:'Tajawal', sans-serif; 
+  margin-right: 400px;
+}
+>>>>>>> 0fc95fa4eb2756ed2d7b068b143efd7e77a93c58
 
 footer {
   background-color: #C0B99D;
-  height: 150px;
+  height: 270px;
   color: black;
   font-family:'Tajawal', sans-serif;
 }
@@ -156,7 +164,7 @@ margin-top: 20px;
   margin-left: 150px; 
   display: inline-flex;
   margin-top: 170px;
-  margin-bottom: -100px;;
+  margin-bottom: -100px; 
   }
 
 .material-symbols-outlined {margin: 0px;
@@ -166,3 +174,5 @@ margin-top: 15px;
 margin-right: 40px;
 padding-right: 20px;
 }
+
+.conclusion1 {margin-left: 50px}
