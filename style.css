@@ -26,7 +26,7 @@ padding: 20px;}
 
 .encabezado {text-align: center; 
   color: white; 
-  background-image: url(img/datos2.png); 
+  background-image: url(img/video.gif); 
   background-size: cover;
   height: 650px;
   background-attachment: fixed;}
@@ -88,7 +88,8 @@ font-family:'Tajawal', sans-serif;}
   width: 300px;
 }
 
-.contenedor-imagen1 {width: 500px;
+.contenedor-imagen1 {border-radius: 60%;
+  width: 500px;
 width: 300px;
 text-align: right;
 margin: 90px;
@@ -110,12 +111,15 @@ margin-left: 60px;
 padding-top: 40px;
 margin-top: -280px}
 
-.contenedor-imagen {position: inline-flex;
+.contenedor-imagen {border-radius: 50%;
+  position: inline-flex;
   width: 200px;
   height: 200px;
   text-align: right;
-  margin: 20px;
+  margin: 10px;
   margin-top: -60px;
+  margin-bottom: 200px;
+
 }
 
 .textop1 {margin-top: -50px; 
@@ -123,18 +127,24 @@ margin-top: -280px}
 }
 
 .textop2 {font-family:'Tajawal', sans-serif; 
-  margin-right: 400px;
+  margin-right: 150px;
 }
 
-.textop4 {font-family:'Tajawal', sans-serif;}
+.textop4 {font-family:'Tajawal', sans-serif;
+margin-right: 150px;}
 
 .textop6 {font-family:'Tajawal', sans-serif;}
 
 .textop8 {font-family:'Tajawal', sans-serif;}
 
+<<<<<<< HEAD
+.paper {margin-top: 100px;
+padding: 10px}
+=======
 .textop9 {font-family:'Tajawal', sans-serif; 
   margin-right: 400px;
 }
+>>>>>>> 0fc95fa4eb2756ed2d7b068b143efd7e77a93c58
 
 footer {
   background-color: #C0B99D;
