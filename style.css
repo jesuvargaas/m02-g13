@@ -3,10 +3,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap');
 
 body {margin: 0px; font-family:'Anton', sans-serif;
-width: 100vw} 
+width: 100vw;
+position: absolute;} 
 
 header {
-  background-color: navy;
+  background-color: black;
   color: white;
   height: 60px;
   padding: 10px;
@@ -37,7 +38,7 @@ padding-top: 325px}
 .titulo2 {margin: 0px;
 padding-top: 50px;
 font-family:'Tajawal', sans-serif; 
-font-size: 150px; 
+font-size: 90px; 
 padding-left: 70px;
 padding-right: 70px;
 line-height: 120px; 
@@ -55,9 +56,9 @@ position: flex}
 
 .desarrollo {text-align: center; 
   color:white; 
-  background-color: navy; 
+  background-color: black; 
   background-size: cover;
-  height: 500px;
+  height: 350px;
   background-attachment: fixed;}
 
 .michael2 {text-align: center; 
@@ -77,9 +78,9 @@ margin-left: 10px;
 padding-top: 20px;
 margin-top: -20px}
 
-.texto2  {text-align: left;
+.texto2 {text-align: left;
 margin-left:;
-margin-right: 1000px;
+margin-right: 500px;
 font-family:'Tajawal', sans-serif;}
 
 .imagen1 {display: inline-block;
@@ -97,8 +98,8 @@ text-align:right;
 margin: 60px;
 position: absolute;
 margin-top: -500px;
-margin-left: 100px;
-margin-right: -10px;
+margin-left: 700px;
+margin-right: 200px;
 margin-bottom: -300px}
 
 .variacion {display: inline-flex;
@@ -167,8 +168,8 @@ padding: 10px}
 margin-left: 30px}
 
 footer {
-  background-color: navy;
-  height: 250px;
+  background-color: black;
+  height: 300px;
   color: white;
   font-family:'Tajawal', sans-serif;
 }
@@ -197,7 +198,12 @@ padding-right: 20px;
 }
 
 .conclusion1 {margin-left: 50px;
-margin-top: -100px}
+margin-top: -100px;
+margin-right: 200px}
 
 .conclusion2 {margin-left: 15px;
 margin-top: 100px}
+
+.ryoji {font-family:'Tajawal', sans-serif;
+margin-right:200px;
+margin-left:60px }
