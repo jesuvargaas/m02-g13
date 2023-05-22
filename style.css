@@ -3,173 +3,175 @@
 @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap');
 
 body {margin: 0px; font-family:'Anton', sans-serif;
-width: 100vw;
-position: absolute;} 
+width: 100vw}
 
 header {
-  background-color: black;
-  color: white;
-  height: 60px;
-  padding: 10px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;}
+background-color: black;
+color: white;
+height: 60px;
+padding: 10px;
+display: flex;
+align-items: center;
+justify-content: space-between;}
 
 .logo {display: flex;}
 
-.logo img {height: 40px;
-margin: 10px; 
-padding-top: 10px}
+.logo img {height: 80px;
+padding-top: 0px}
 
-a {color:white;
+a {color: white;
 text-decoration: none;
 padding: 20px;}
 
-.encabezado {text-align: center; 
-  color: white; 
-  background-image: url(img/video.gif); 
-  background-size: cover;
-  height: 650px;
-  background-attachment: fixed;}
+.encabezado {text-align: center;
+color: white;
+background-image: url(img/video.gif);
+background-size: cover;
+height: 650px;
+background-attachment: fixed;}
 
 .titulo1 {margin: 0px;
-padding-top: 325px}
+padding-top: 325px;
+mar}
+
+.desarrollo {text-align: center;
+color: white;
+background-color: black;
+background-size: cover;
+height: 370px;
+background-attachment: fixed;}
 
 .titulo2 {margin: 0px;
-padding-top: 50px;
-font-family:'Tajawal', sans-serif; 
-font-size: 90px; 
+padding-top: 60px;
+font-family:'Tajawal', sans-serif;
+font-size: 90px;
 padding-left: 70px;
 padding-right: 70px;
-line-height: 120px; 
-letter-spacing: 7px;}
+line-height: 120px;
+letter-spacing: 7px}
 
 .texto1 {margin: 0px;
 padding-top: -3px;
-font-family:'Tajawal', sans-serif; 
-font-size: 15px; 
+font-family:'Tajawal', sans-serif;
+font-size: 15px;
 padding-left: 250px;
 padding-right: 250px;
 line-height: 20px;
 text-align: center;
 position: flex}
 
-.desarrollo {text-align: center; 
-  color:white; 
-  background-color: black; 
-  background-size: cover;
-  height: 350px;
-  background-attachment: fixed;}
-
-.michael2 {text-align: center; 
-  color: white; 
-  background-image: url(imagen/lindo.png); 
-  background-size: cover;
-  height: 650px;
-  background-attachment: fixed;}
-
-.galeria {text-align: center;
-padding-top: -100px;
-margin-top: -640px;
-margin-left: 50px;
-margin-right:-400px;
-}
-
 .titulo {text-align: left;
 margin-left: 10px;
-padding-top: 20px;
-margin-top: -20px}
+padding-top: -40px;
+margin-top: -650px}
 
-.texto2 {text-align: left;
+.texto2  {text-align: left;
 margin-left:;
-margin-right: 500px;
-font-family:'Tajawal', sans-serif;}
+margin-right: 800px;
+font-family:'Tajawal', sans-serif;
+margin-top: 0px}
 
 .imagen1 {display: inline-block;
-  margin: -100px;
-  height: 200px;
-  width: 200px;
-  text-align: right;
-  margin-left: 200px;
-  margin-top: 150px;}
-
-.contenedor-imagen1 {border-radius: 60%;
-  width: 300px;
+margin: 10px;
+height: 200px;
 width: 300px;
-text-align:right;
-margin: 60px;
+margin-top: 200px;
+}
+
+.imagen2 {display: inline-block;
+margin: 10px;
+height: 200px;
+width: 300px;
+margin-top: 200px;
+}
+
+
+.paper1 {text-align: left;
+margin-left:;
+margin-right: 800px;
+margin-top: -400px}
+
+.paper2 {
+margin-left:;
+margin-right: -400px;
+margin-top: 0px;
+font-family:'Tajawal', sans-serif;}
+
+.michael2 {text-align: center;
+color: white;
+background-image: url(imagen/lindo.png);
+background-size: cover;
+height: 650px;
+background-attachment: fixed;}
+
+.galeria {text-align: center;
+margin: 50px;
+padding-top: -10px}
+
+.contenedor-imagen1 {border-radius: 50%;
+width: 500px;
+width: 300px;
+text-align: right;
+margin: 90px;
 position: absolute;
-margin-top: -840PX;
-margin-left: 700px;
-margin-right: 200px;
-margin-bottom: -300px}
+margin-top: -540px;
+margin-left: 130px;
+margin-right: 0;
+margin-bottom: -300px;}
 
 .variacion {display: inline-flex;
-margin: 40px;}
+margin: 60px;
+margin-top: 30px;
+margin-left: }
 
-.variaciones {margin-top: 400px;
-padding-top: 50px;
+.variaciones {margin-top: -200px;
+padding-top:40px;
 position: inline-flex}
 
 .titulo4 {text-align: left;
 margin-left: 60px;
 padding-top: 40px;
-margin-top: -400px}
+margin-top: -40px}
 
 .contenedor-imagen {border-radius: 50%;
-  position: inline-flex;
-  width: 200px;
-  height: 200px;
-  text-align: right;
-  margin: 10px;
-  margin-top: -100px:;
-  margin-bottom: 0px;
+position: inline-flex;
+width: 200px;
+height: 200px;
+text-align:left;
+margin: 50px;
+margin-top: -60px;
+margin-left: 15px}
 
-}
-
-.textop1 {margin-top: -50px; 
-  margin-right: -90px;
-}
-
-.textop2 {font-family:'Tajawal', sans-serif; 
-  margin-right: 100px;
-}
-
-.textop3 {margin-left: -250px;
-  margin-top: -50px;
-
-
-
-}
-
-.textop4 {font-family:'Tajawal', sans-serif;
-margin-right:20px;
-
-}
-
-.textop5 { margin-right:-200px;
-margin-top: -50px;
-
-}
-
-.textop6 {font-family:'Tajawal', sans-serif;
-margin-right:200px;
-margin-top:-10px;
-margin-left:10px
-}
-
+.textop1 {font-family:'Tajawal', sans-serif;
+margin-left: -20px}
+.textop5 {font-family:'Tajawal', sans-serif;}
+.textop3 {font-family:'Tajawal', sans-serif;}
 .textop8 {font-family:'Tajawal', sans-serif;}
 
-.paper {margin-top: 100px;
-padding: 10px}
-.textop9 {font-family:'Tajawal', sans-serif; 
-  margin-right: 400px;
-}
+.ryoji {font-family:'Tajawal', sans-serif;
+margin-right: 300px;
+margin-left: 50px}
 
-.foto-p2 { margin-right: 300px; }
+.analisis {margin-top: 20px}
+.analisis1 {text-align: left;
+margin-left:60px;
+margin-right: 800px;
+margin-top: -50px}
 
-.analisis {margin: 10px;
-margin-left: 30px}
+.analisis2 {margin-left:;
+margin-right: -400px;
+margin-top: 0px;
+font-family:'Tajawal',sans-serif;}
+
+.conclusion1 {text-align: left;
+margin-left:60px;
+margin-right: 800px;
+margin-top: 20px}
+
+.conclusion2 {margin-left:;
+margin-right: -400px;
+margin-top: 0px;
+font-family:'Tajawal',sans-serif;}
 
 footer {
   background-color: black;
@@ -179,18 +181,20 @@ footer {
 }
 
 .titulo5 {margin-left: 50px;
-margin-bottom: -150px;
-margin-top: 20px;
+margin-bottom: -180px;
+margin-top: 0px;
 }
 
 .elementos-footer1 {
   display: inline-flex;}
 
-.fot1 ,.fot2 ,.fot3 ,.fot4 {margin: 50px; 
-  margin-left: 150px; 
+.fot1 ,.fot2 ,.fot3 ,.fot4 {margin: 50px;
+  margin-left: 150px;
   display: inline-flex;
-  margin-top: 170px;
-  margin-bottom: -100px; 
+  margin-top: 180px;
+  margin-bottom: -100px;
+  margin-right: -100px;
+  font-size: 15px;
   }
 
 .material-symbols-outlined {margin: 0px;
@@ -201,19 +205,16 @@ margin-right: 40px;
 padding-right: 20px;
 }
 
-.conclusion1 {margin-left: 50px;
-margin-top: -100px;
-margin-right: 200px}
+.imagenes1 {border-radius: 50%;
+width: 300px;
+position: absolute;
+margin-left: 900px;
+margin-bottom: 0px;
+margin-top: -1300px}
 
-.conclusion2 {margin-left: 15px;
-margin-top: 10px}
-
-.ryoji {font-family:'Tajawal', sans-serif;
-margin-right:200px;
-
-margin-left:60px }
-
-.conclusion3 {margin-right: 360px;
-
-
-margin-left:50px
+.imagenes2 {border-radius: 50%;
+width: 300px;
+position: absolute;
+margin-left: 950px;
+margin-bottom: 0px;
+margin-top: -350px} 
