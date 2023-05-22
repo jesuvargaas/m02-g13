@@ -135,18 +135,25 @@ margin-top: -40px}
 
 .contenedor-imagen {border-radius: 50%;
 position: inline-flex;
-width: 200px;
-height: 200px;
+width: 150px;
+height: 150px;
 text-align:left;
 margin: 50px;
 margin-top: -60px;
-margin-left: 15px}
+margin-left: 15px;}
+
+.foto-p3 {margin-left: 200px;
+margin-top: -20px}
 
 .textop1 {font-family:'Tajawal', sans-serif;
-margin-left: -20px}
-.textop5 {font-family:'Tajawal', sans-serif;}
-.textop3 {font-family:'Tajawal', sans-serif;}
-.textop8 {font-family:'Tajawal', sans-serif;}
+margin-left: -20px;
+margin-right: }
+.textop5 {font-family:'Tajawal', sans-serif;
+margin-left: 400px;
+margin-top: -150px}
+.textop3 {font-family:'Tajawal', sans-serif;
+}
+
 
 .ryoji {font-family:'Tajawal', sans-serif;
 margin-right: 300px;
